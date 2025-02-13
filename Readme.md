@@ -1,6 +1,6 @@
-* Giới thiệu về github
+# Giới thiệu về github
 
-** Các công việc cần làm với git
+## Các công việc cần làm với git
 
 - Cài đặt
 - Init
